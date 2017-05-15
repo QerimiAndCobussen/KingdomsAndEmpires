@@ -1,4 +1,4 @@
-# KingdomsAndEmpires
+# Kingdoms & Empires
 
 Terms & Conditions:
 1. Distributing copy's is allowed, as long as you refer to © Qerimi & Cobussen and to this source.
