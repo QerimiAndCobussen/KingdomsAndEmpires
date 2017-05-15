@@ -1,0 +1,16 @@
+name: Kingdoms_And_Empires
+version: 0.1.5.2
+main: me.qerimicobussen.kingdomsandempires.Kingdoms_Empires
+depend: [Vault]
+
+
+commands:
+  Jobs:
+    usage: /<command>
+    description: The Job Command
+  Religions:
+    usage: /<command>
+    description: The Religion Command
+  Job:
+    usgae: /<command>
+    description: Check Your Job
